@@ -1,0 +1,41 @@
+_repo: Dave-Porter-and-the-Runaways--Or-Last-Days-at-Oak-Hall_28654
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Boehm, H. Richard
+    alias: Boehm, Henry Richard
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '33471'
+    url: http://www.gutenberg.org/2009/agents/33471
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2009-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28654'
+  lccn: '13007080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcc 'PZ'
+title: Dave Porter and the Runaways; Or, Last Days at Oak Hall
+url: http://www.gutenberg.org/ebooks/28654
